@@ -41,4 +41,3 @@ Here are some ideas to get you started:
 | [LinuxNetwork](https://github.com/captaink21/DO2_LinuxNetwork) | Работа с сетями и VirtualBox. |
 | [SimpleDocker](https://github.com/captaink21/DO5_SimpleDocker) | Изучение docker, dockle, docker compose. Разработка простого докер-образа для собственного сервера. |
 | [CI/CD](https://github.com/captaink21/DO6_CICD) | Изучение и использование CI/CD для проекта SimpleBashUtils, реализация получения уведомлений в Telegram. |
-|  |  |
