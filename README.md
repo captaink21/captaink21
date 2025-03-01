@@ -41,3 +41,22 @@ Here are some ideas to get you started:
 | [LinuxNetwork](https://github.com/captaink21/DO2_LinuxNetwork) | Работа с сетями и VirtualBox. |
 | [SimpleDocker](https://github.com/captaink21/DO5_SimpleDocker) | Изучение docker, dockle, docker compose. Разработка простого докер-образа для собственного сервера. |
 | [CI/CD](https://github.com/captaink21/DO6_CICD) | Изучение и использование CI/CD для проекта SimpleBashUtils, реализация получения уведомлений в Telegram. |
+
+
+### SQL
+
+| Название | Описание |
+| --- | --- |
+| [SQL-00](https://github.com/captaink21/SQL-00) | Изучение реляционной модели и данных на основе базовых конструкций SQL. |
+| [SQL-01](https://github.com/captaink21/SQL-01) | Извлечение данных с помощью операций над множествами и использование конструкции `JOIN`. |
+| [SQL-02](https://github.com/captaink21/SQL-02) | Использование различных типов `JOIN`. |
+| [SQL-03](https://github.com/captaink21/SQL-03) | Изменение данных с помощью языка манипулирования данными (DML). |
+| [SQL-04](https://github.com/captaink21/SQL-04) | Виртуальные представления и физические снимки данных. |
+| [SQL-05](https://github.com/captaink21/SQL-05) | Процесс создания индексов баз данных. |
+| [SQL-06](https://github.com/captaink21/SQL-06) | Интеграция новых бизнес-функций в модель данных. |
+| [SQL-07](https://github.com/captaink21/SQL-07) | Использование конкретных конструкций OLAP для извлечения ценности из данных. |
+| [SQL-08](https://github.com/captaink21/SQL-08) | Уровни изоляции транзакций и их значения в управлении базами данных. |
+| [SQL-09](https://github.com/captaink21/SQL-09) | Создание и использование функций и хранимых процедур в базах данных. |
+| [SQL-T00](https://github.com/captaink21/SQL-T00) | Практика в реализации решения задачи о покупке билета по наименьшей стоимости на основе SQL. |
+| [SQL-T01](https://github.com/captaink21/SQL-T01) | Изучение хранилищ данных (DWH), создание конвейера извлечения, преобразования и загрузки данных (ETL). |
+
