@@ -60,3 +60,8 @@ Here are some ideas to get you started:
 | [SQL-T00](https://github.com/captaink21/SQL-T00) | Практика в реализации решения задачи о покупке билета по наименьшей стоимости на основе SQL. |
 | [SQL-T01](https://github.com/captaink21/SQL-T01) | Изучение хранилищ данных (DWH), создание конвейера извлечения, преобразования и загрузки данных (ETL). |
 
+### ML
+
+| Название | Описание |
+| --- | --- |
+| [ReLeNet5]([https://github.com/captaink21/SQL-00](https://github.com/captaink21/ReLeNet5/tree/main)) | Генерации, аугментации и распознавания изображений цифр из разных числовых систем |
