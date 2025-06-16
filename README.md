@@ -64,4 +64,4 @@ Here are some ideas to get you started:
 
 | Название | Описание |
 | --- | --- |
-| [ReLeNet5]([https://github.com/captaink21/SQL-00](https://github.com/captaink21/ReLeNet5/tree/main)) | Генерации, аугментации и распознавания изображений цифр из разных числовых систем |
+| [ReLeNet5](https://github.com/captaink21/ReLeNet5/) | Генерации, аугментации и распознавания изображений цифр из разных числовых систем |
