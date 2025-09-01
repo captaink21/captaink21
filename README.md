@@ -1,4 +1,5 @@
-## Hi there 👋
+## Привет 👋  
+Я — Фархад Миннеханов, DS/ML инженер. Ищу амбициозную команду для активного развития в прикладных ML-задачах
 
 <!--
 **captaink21/captaink21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 
 | Название | Описание |
 | --- | --- |
-| [ReLeNet5](https://github.com/captaink21/ReLeNet5/) | Проект исследует генерацию и распознавание синтетических изображений цифр (западные, восточноарабские, римские) с использованием различных техник аугментации данных. Сравниваются две модели: классическая LeNet-5 и актуализированная версия с современными практиками (замена свёрток 5x5 на 3x3, активации ReLU вместо Tanh, Max Pooling вместо Average Pooling, и добавление Batch Normalization). |
+| [ReLeNet5](https://github.com/captaink21/ReLeNet5/) | 🔬 Сравнение классической LeNet-5 и модернизированных CNN (ReLU, BatchNorm, MaxPooling) на синтетических наборах цифр (арабские, восточные, римские). Использовались PyTorch, NumPy, Pillow, scikit-learn, Matplotlib. |
 
 ### SQL
 
@@ -70,6 +71,13 @@ Here are some ideas to get you started:
 | [Decimal](https://github.com/captaink21/C5_s21_decimal) | Реализация библиотеки `decimal.h`. Эта библиотека добавляет возможность работы с типом «decimal», который отсутствует в стандарте языка. |
 | [Matrix](https://github.com/captaink21/C6_s21_matrix)  | Реализована собственная библиотека для обработки числовых матриц на языке программирования C. |
 | [BrickGame](https://github.com/captaink21/C7_BrickGame_v1.0) | Реализована игра «Тетрис» на языке программирования С. |
+
+
+---
+📫 Связаться со мной:  
+- Email: minfarkhad@gmail.com  
+- Telegram: [@miehao](https://t.me/miehao)  
+- [Резюме PDF](https://drive.google.com/file/d/1dEmyU-HtFNiMtXtHbdI5vMzHStQA1K62/view?usp=sharing))
 
 
 
