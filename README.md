@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 📫 Связаться со мной:  
 - Email: minfarkhad@gmail.com  
 - Telegram: [@miehao](https://t.me/miehao)  
-- [Резюме PDF](https://drive.google.com/file/d/1dEmyU-HtFNiMtXtHbdI5vMzHStQA1K62/view?usp=sharing))
+- [Резюме PDF](https://drive.google.com/file/d/1dEmyU-HtFNiMtXtHbdI5vMzHStQA1K62/view?usp=sharing)
 
 
 
