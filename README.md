@@ -78,7 +78,6 @@ Here are some ideas to get you started:
 - Телефон: +7-999-155-63-59
 - Telegram: [@miehao](https://t.me/miehao)  
 - Email: minfarkhad@gmail.com  
-- [Резюме PDF](https://drive.google.com/file/d/1NY7CQJ76UEadyF-sZgSjNN4Jkmh2cWiM/view?usp=sharing)
 
 
 
