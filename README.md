@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 - **Технологии**: PyTorch, HuggingFace Transformers, scikit-learn, Matplotlib/Seaborn
 - **Компромисс**: Анализ trade-off между точностью и скоростью вычисления
 
-### CV: Детекция объектов с RetinaNet (ResNet-50 FPN)(https://github.com/captaink21/ShapeDetection)
+### CV: [Детекция объектов с RetinaNet (ResNet-50 FPN)](https://github.com/captaink21/ShapeDetection)
 - **Задача**: Разработать систему детекции геометрических фигур с добавлением нового класса (hexagon)
 - **Подход**: Генерация синтетических изображений через OpenCV + Apache Spark → fine-tuning RetinaNet
 - **Анализ**: Исследование влияния аугментации (Albumentations) и дообучения на базовые классы через Precision/Recall/IoU
