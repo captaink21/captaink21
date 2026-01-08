@@ -2,7 +2,34 @@
 
 ## 🎯 О мне
 ML-инженер с опытом в NLP, Computer Vision и RAG системах. Переход из инженерно-строительной сферы в Data Science через практическое применение ML к реальным задачам. Обучаюсь в School 21, Samsung AI Center. Ищу амбициозную команду для активного развития в прикладных ML-задачах.
+---
 
+## 💻 Технологический стек
+
+### Data Science & ML
+- **Deep Learning**: PyTorch, HuggingFace Transformers, TensorFlow
+- **Traditional ML**: scikit-learn, XGBoost, LightGBM, CatBoost
+- **NLP & LLM**: BERT, Sentence-BERT, LangChain, GigaChat API
+- **Computer Vision**: RetinaNet, OpenCV, Albumentations, FAISS
+- **Data Processing**: Pandas, NumPy, Apache Spark, PySpark
+
+### Data & Databases
+- PostgreSQL, SQLite
+- SQL (полный цикл: SELECT, JOIN, DML, OLAP, индексы, транзакции)
+- ETL процессы, хранилища данных (DWH)
+
+### DevOps & Tools
+- Docker, docker-compose, CI/CD (GitHub Actions)
+- Linux, Bash, Git
+- Jupyter Notebook, Postman
+
+### Visualization & Reporting
+- Matplotlib, Seaborn, Plotly
+- Interactive dashboards
+
+### Additional Languages
+- **C/C++**: ООП, STL, системное программирование
+- **Python**: OOP, функциональное программирование, тестирование
 ---
 
 ## 🔥 Ключевые проекты
@@ -108,35 +135,6 @@ Here are some ideas to get you started:
 | Проект | Описание | Технологии |
 |--------|---------|-----------|
 | [CustomInputField-Widget](https://github.com/captaink21/gans) | Профессиональный кастомный виджет PySide6 для отображения/редактирования значений с единицами измерения. Поддерживает 2 режима отображения (горизонтальный/вертикальный), 2 режима работы (readonly/editable), кастомизация цветов/шрифтов, загрузка иконок, полная совместимость с Qt Designer и Material Design | PySide6, Qt Designer |
-
----
-
-## 💻 Технологический стек
-
-### Data Science & ML
-- **Deep Learning**: PyTorch, HuggingFace Transformers, TensorFlow
-- **Traditional ML**: scikit-learn, XGBoost, LightGBM, CatBoost
-- **NLP & LLM**: BERT, Sentence-BERT, LangChain, GigaChat API
-- **Computer Vision**: RetinaNet, OpenCV, Albumentations, FAISS
-- **Data Processing**: Pandas, NumPy, Apache Spark, PySpark
-
-### Data & Databases
-- PostgreSQL, SQLite
-- SQL (полный цикл: SELECT, JOIN, DML, OLAP, индексы, транзакции)
-- ETL процессы, хранилища данных (DWH)
-
-### DevOps & Tools
-- Docker, docker-compose, CI/CD (GitHub Actions)
-- Linux, Bash, Git
-- Jupyter Notebook, Postman
-
-### Visualization & Reporting
-- Matplotlib, Seaborn, Plotly
-- Interactive dashboards
-
-### Additional Languages
-- **C/C++**: ООП, STL, системное программирование
-- **Python**: OOP, функциональное программирование, тестирование
 
 ---
 
