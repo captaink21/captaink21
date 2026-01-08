@@ -53,21 +53,18 @@ Here are some ideas to get you started:
 - **Результат**: BERT fine-tuning достигает F1-weighted = 0.92 (+18% улучшения над TF-IDF бейзлайном)
 - **Технологии**: PyTorch, HuggingFace Transformers, scikit-learn, Matplotlib/Seaborn
 - **Компромисс**: Анализ trade-off между точностью и скоростью вычисления
-- **Код**: [github.com/captaink21/NLP_Text_Classification](https://github.com/captaink21/NLP_Text_Classification)
 
-### CV: Детекция объектов с RetinaNet (ResNet-50 FPN)
+### CV: Детекция объектов с RetinaNet (ResNet-50 FPN)(https://github.com/captaink21/ShapeDetection)
 - **Задача**: Разработать систему детекции геометрических фигур с добавлением нового класса (hexagon)
 - **Подход**: Генерация синтетических изображений через OpenCV + Apache Spark → fine-tuning RetinaNet
 - **Анализ**: Исследование влияния аугментации (Albumentations) и дообучения на базовые классы через Precision/Recall/IoU
 - **Технологии**: PyTorch, OpenCV, Albumentations, Apache Spark, Pandas
-- **Код**: [github.com/captaink21/ShapeDetection](https://github.com/captaink21/ShapeDetection)
 
 ### RAG: [Telegram-бот "ТехНадзор" с семантическим поиском](https://github.com/captaink21/TechNadzor)
 - **Задача**: Создать интеллектуального помощника для инженеров по вопросам конструирования железобетонных конструкций
 - **Реализация**: Парсинг PDF-документов + FAISS индексирование + семантический поиск HuggingFace embeddings + LLM (GigaChat) для генерации ответов со ссылками на источники
 - **Архитектура**: RAG паттерн (Retrieval-Augmented Generation) через LangChain
 - **Технологии**: LangChain, FAISS, HuggingFace Embeddings, GigaChat API, Telegram API
-- **Код**: [github.com/captaink21/TechNadzor](https://github.com/captaink21/TechNadzor)
 
 ### ML Basics: [Сравнение классической LeNet-5 и современных CNN архитектур](https://github.com/captaink21/ReLeNet5/)
 - **Задача**: Обучить и сравнить классическую LeNet-5 с модернизированными вариантами (ReLU, BatchNorm, MaxPooling)
