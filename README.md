@@ -30,9 +30,6 @@ ML-инженер с опытом в NLP, Computer Vision и RAG система�
 ### Additional Languages
 - **C/C++**: ООП, STL, системное программирование
 - **Python**: OOP, функциональное программирование, тестирование
----
-
-## 🔥 Ключевые проекты
 
 <!--
 **captaink21/captaink21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,11 +45,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
 
 ## 🔥 Ключевые проекты
 
-### NLP: Fine-tuning BERT для классификации текстов
+### NLP: [Fine-tuning BERT для классификации текстов](https://github.com/captaink21/NLP_Text_Classification)
 - **Задача**: Сравнение классических методов (TF-IDF + LR/SVM) с нейросетевыми подходами (Sentence-BERT, BERT fine-tuning)
 - **Результат**: BERT fine-tuning достигает F1-weighted = 0.92 (+18% улучшения над TF-IDF бейзлайном)
 - **Технологии**: PyTorch, HuggingFace Transformers, scikit-learn, Matplotlib/Seaborn
@@ -66,21 +62,18 @@ Here are some ideas to get you started:
 - **Технологии**: PyTorch, OpenCV, Albumentations, Apache Spark, Pandas
 - **Код**: [github.com/captaink21/ShapeDetection](https://github.com/captaink21/ShapeDetection)
 
-### RAG: Telegram-бот "ТехНадзор" с семантическим поиском
+### RAG: [Telegram-бот "ТехНадзор" с семантическим поиском](https://github.com/captaink21/TechNadzor)
 - **Задача**: Создать интеллектуального помощника для инженеров по вопросам конструирования железобетонных конструкций
 - **Реализация**: Парсинг PDF-документов + FAISS индексирование + семантический поиск HuggingFace embeddings + LLM (GigaChat) для генерации ответов со ссылками на источники
 - **Архитектура**: RAG паттерн (Retrieval-Augmented Generation) через LangChain
 - **Технологии**: LangChain, FAISS, HuggingFace Embeddings, GigaChat API, Telegram API
 - **Код**: [github.com/captaink21/TechNadzor](https://github.com/captaink21/TechNadzor)
 
-### ML Basics: Сравнение классической LeNet-5 и современных CNN архитектур
+### ML Basics: [Сравнение классической LeNet-5 и современных CNN архитектур](https://github.com/captaink21/ReLeNet5/)
 - **Задача**: Обучить и сравнить классическую LeNet-5 с модернизированными вариантами (ReLU, BatchNorm, MaxPooling)
 - **Датасеты**: Синтетические наборы рукописных цифр (арабские, восточные, римские)
 - **Анализ**: Влияние архитектурных компонент на качество модели
 - **Технологии**: PyTorch, NumPy, Pillow, scikit-learn, Matplotlib
-- **Код**: [github.com/captaink21/ReLeNet5](https://github.com/captaink21/ReLeNet5/)
-
----
 
 ---
 ## 📚 Фундаментальные навыки - School 21 (Sber)
