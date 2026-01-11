@@ -7,30 +7,15 @@
 
 ## 💻 Технологический стек
 
-### Data Science & ML
-- **Deep Learning**: PyTorch, HuggingFace Transformers, TensorFlow
-- **Traditional ML**: scikit-learn, XGBoost, LightGBM, CatBoost
-- **NLP & LLM**: BERT, Sentence-BERT, LangChain, GigaChat API
-- **Computer Vision**: RetinaNet, OpenCV, Albumentations, FAISS
-- **Data Processing**: Pandas, NumPy, Apache Spark, PySpark
+### ОСНОВНОЙ СТЕК  
+CV: PyTorch, HuggingFace Transformers, OpenCV, YOLO  
+NLP: BERT, Sentence-BERT, LangChain, FAISS, RAG  
+ML: scikit-learn, XGBoost, CatBoost, LightGBM  
+Languages: Python, C/C++, SQL  
 
-### Data & Databases
-- PostgreSQL, SQLite
-- SQL (полный цикл: SELECT, JOIN, DML, OLAP, индексы, транзакции)
-- ETL процессы, хранилища данных (DWH)
-
-### DevOps & Tools
-- Docker, docker-compose, CI/CD (GitHub Actions)
-- Linux, Bash, Git
-- Jupyter Notebook, Postman
-
-### Visualization & Reporting
-- Matplotlib, Seaborn, Plotly
-- Interactive dashboards
-
-### Additional Languages
-- **C/C++**: ООП, STL, системное программирование
-- **Python**: OOP, функциональное программирование, тестирование
+### ДОПОЛНИТЕЛЬНЫЙ СТЕК    
+Data Tools: Pandas, NumPy, Matplotlib, Seaborn  
+DevOps: Git, Docker, CI/CD, PostgreSQL, PySpark  
 
 <!--
 **captaink21/captaink21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
