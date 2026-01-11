@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 - **Компромисс**: Анализ trade-off между точностью и скоростью вычисления
 
 ### CV: [Детекция фигур |  YOLO, PyTorch, OpenCV, Apache Spark, Python, Pandas, Matplotlib, ONNX, C++](https://github.com/captaink21/ShapeDetection)
-· Синтетический датасет (OpenCV + Spark) с аугментацией
-· Обучение и поэтапное дообучение YOLOv8 с новым классом
-· Метрики: Precision/Recall/IoU с анализом по классам и  деградацией
-· Экспорт ONNX/OpenVINO/TensorRT, инференс Python и C++ 
+· Синтетический датасет (OpenCV + Spark) с аугментацией  
+· Обучение и поэтапное дообучение YOLOv8 с новым классом  
+· Метрики: Precision/Recall/IoU с анализом по классам и  деградацией  
+· Экспорт ONNX/OpenVINO/TensorRT, инференс Python и C++   
 
 ### RAG: [Telegram-бот "ТехНадзор" с семантическим поиском](https://github.com/captaink21/TechNadzor)
 - **Задача**: Создать интеллектуального помощника для инженеров по вопросам конструирования железобетонных конструкций
