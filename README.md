@@ -34,15 +34,15 @@ Here are some ideas to get you started:
 
 ## 🔥 Ключевые проекты
 
-### NLP: [Классификация текстов (NLP) | scikit-learn, CatBoost, XGBoost, LightGBM, Sentence-BERT, HuggingFace Transformers, PyTorch, Matplotlib, Seaborn](https://github.com/captaink21/NLP_Text_Classification)
-· TF-IDF + бустинг vs Sentence-BERT + fine-tuning BERT  
-· Сравнение по F1-weighted и визуализация эффективности  
-
 ### CV: [Детекция фигур |  YOLO, PyTorch, OpenCV, Apache Spark, Python, Pandas, Matplotlib, ONNX, C++](https://github.com/captaink21/ShapeDetection)
 · Синтетический датасет (OpenCV + Spark) с аугментацией  
 · Обучение и поэтапное дообучение YOLOv8 с новым классом  
 · Метрики: Precision/Recall/IoU с анализом по классам и  деградацией  
 · Экспорт ONNX/OpenVINO/TensorRT, инференс Python и C++   
+
+### NLP: [Классификация текстов (NLP) | scikit-learn, CatBoost, XGBoost, LightGBM, Sentence-BERT, HuggingFace Transformers, PyTorch, Matplotlib, Seaborn](https://github.com/captaink21/NLP_Text_Classification)
+· TF-IDF + бустинг vs Sentence-BERT + fine-tuning BERT  
+· Сравнение по F1-weighted и визуализация эффективности  
 
 ### RAG: [ИИ-ассистент “ТехНадзор” | LangChain, FAISS, HuggingFace, GigaChat, Telegram API, RAG + NLP](https://github.com/captaink21/TechNadzor)
 · Парсинг PDF документов с разбивкой на чанки и метаданные  
