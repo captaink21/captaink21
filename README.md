@@ -48,11 +48,9 @@ Here are some ideas to get you started:
 
 ## 🔥 Ключевые проекты
 
-### NLP: [Fine-tuning BERT для классификации текстов](https://github.com/captaink21/NLP_Text_Classification)
-- **Задача**: Сравнение классических методов (TF-IDF + LR/SVM) с нейросетевыми подходами (Sentence-BERT, BERT fine-tuning)
-- **Результат**: BERT fine-tuning достигает F1-weighted = 0.92 (+18% улучшения над TF-IDF бейзлайном)
-- **Технологии**: PyTorch, HuggingFace Transformers, scikit-learn, Matplotlib/Seaborn
-- **Компромисс**: Анализ trade-off между точностью и скоростью вычисления
+### NLP: [Классификация текстов (NLP) | scikit-learn, CatBoost, XGBoost, LightGBM, Sentence-BERT, HuggingFace Transformers, PyTorch, Matplotlib, Seaborn](https://github.com/captaink21/NLP_Text_Classification)
+· TF-IDF + бустинг vs Sentence-BERT + fine-tuning BERT  
+· Сравнение по F1-weighted и визуализация эффективности  
 
 ### CV: [Детекция фигур |  YOLO, PyTorch, OpenCV, Apache Spark, Python, Pandas, Matplotlib, ONNX, C++](https://github.com/captaink21/ShapeDetection)
 · Синтетический датасет (OpenCV + Spark) с аугментацией  
@@ -60,17 +58,10 @@ Here are some ideas to get you started:
 · Метрики: Precision/Recall/IoU с анализом по классам и  деградацией  
 · Экспорт ONNX/OpenVINO/TensorRT, инференс Python и C++   
 
-### RAG: [Telegram-бот "ТехНадзор" с семантическим поиском](https://github.com/captaink21/TechNadzor)
-- **Задача**: Создать интеллектуального помощника для инженеров по вопросам конструирования железобетонных конструкций
-- **Реализация**: Парсинг PDF-документов + FAISS индексирование + семантический поиск HuggingFace embeddings + LLM (GigaChat) для генерации ответов со ссылками на источники
-- **Архитектура**: RAG паттерн (Retrieval-Augmented Generation) через LangChain
-- **Технологии**: LangChain, FAISS, HuggingFace Embeddings, GigaChat API, Telegram API
-
-### ML Basics: [Сравнение классической LeNet-5 и современных CNN архитектур](https://github.com/captaink21/ReLeNet5/)
-- **Задача**: Обучить и сравнить классическую LeNet-5 с модернизированными вариантами (ReLU, BatchNorm, MaxPooling)
-- **Датасеты**: Синтетические наборы рукописных цифр (арабские, восточные, римские)
-- **Анализ**: Влияние архитектурных компонент на качество модели
-- **Технологии**: PyTorch, NumPy, Pillow, scikit-learn, Matplotlib
+### RAG: [ИИ-ассистент “ТехНадзор” | LangChain, FAISS, HuggingFace, GigaChat, Telegram API, RAG + NLP](https://github.com/captaink21/TechNadzor)
+· Парсинг PDF документов с разбивкой на чанки и метаданные  
+· Семантический поиск (FAISS +  embeddings от Hugging Face)  
+· RAG цепь: поиск релевантных  документов → контекст → ответ LLM   
 
 ---
 ## 📚 Фундаментальные навыки - School 21 (Sber)
@@ -166,7 +157,7 @@ Here are some ideas to get you started:
 
 - **Телефон**: +7-999-155-63-59
 - **Email**: minfarkhad@gmail.com
-- **GitHub**: [@captaink21](https://github.com/captaink21)
+- **GitHub**: [captaink21](https://github.com/captaink21)
 - **Telegram**: [@miehao](https://t.me/miehao)
 
 ---
