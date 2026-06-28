@@ -1,161 +1,144 @@
-# Фархад Миннеханов - DS/DL/ML инженер
+<h1 align="center">Фархад Миннеханов</h1>
 
-## 🎯 Обо мне  
+<p align="center">
+🖥️ Инженер по компьютерному зрению<br>
+🏗️ Технический бакалавр по строительству (ПГС)<br>
+🏆 Победитель Всероссийской олимпиады по строительству · главный инженер проекта ЖК «Сердце Столицы»<br>
+🎓 Выпускник Школы 21 от Сбера — разработка C/C++ и Data Science
+</p>
 
-Выиграл во Всероссийской олимпиаде по строительству, прошёл путь от инженера до главного инженера проекта ЖК «Сердце Столицы». Занялся Data Science благодаря интересу к автоматизации. Ищу амбициозную команду для развития в прикладных задачах.
+---
 
+## 💻 Основной стек
 
-## 💻 Технологический стек
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/BERT-008080?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logoColor=black"/>
+</p>
 
-### ОСНОВНОЙ СТЕК  
-CV: PyTorch, HuggingFace Transformers, OpenCV, YOLO  
-NLP: BERT, Sentence-BERT, LangChain, FAISS, RAG  
-ML: scikit-learn, XGBoost, CatBoost, LightGBM  
-Languages: Python, C/C++, SQL  
+## 🛠️ Дополнительный стек
 
-### ДОПОЛНИТЕЛЬНЫЙ СТЕК    
-Data Tools: Pandas, NumPy, Matplotlib, Seaborn  
-DevOps: Git, Docker, CI/CD, PostgreSQL, PySpark  
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
 
-<!--
-**captaink21/captaink21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
 ## 🔥 Ключевые проекты
 
-### CV: [Детекция фигур |  YOLO, PyTorch, OpenCV, Apache Spark, Python, Pandas, Matplotlib, ONNX, C++](https://github.com/captaink21/ShapeDetection)
-· Синтетический датасет (OpenCV + Spark) с аугментацией  
-· Обучение и поэтапное дообучение YOLOv8 с новым классом  
-· Метрики: Precision/Recall/IoU с анализом по классам и  деградацией  
-· Экспорт ONNX/OpenVINO/TensorRT, инференс Python и C++   
-
-### NLP: [Классификация текстов (NLP) | scikit-learn, CatBoost, XGBoost, LightGBM, Sentence-BERT, HuggingFace Transformers, PyTorch, Matplotlib, Seaborn](https://github.com/captaink21/NLP_Text_Classification)
-· TF-IDF + бустинг vs Sentence-BERT + fine-tuning BERT  
-· Сравнение по F1-weighted и визуализация эффективности  
-
-### RAG: [ИИ-ассистент “ТехНадзор” | LangChain, FAISS, HuggingFace, GigaChat, Telegram API, RAG + NLP](https://github.com/captaink21/TechNadzor)
-· Парсинг PDF документов с разбивкой на чанки и метаданные  
-· Семантический поиск (FAISS +  embeddings от Hugging Face)  
-· RAG цепь: поиск релевантных  документов → контекст → ответ LLM   
+| Проект | Описание | Стек |
+| --- | --- | --- |
+| **[Детекция фигур — YOLO](https://github.com/captaink21/ShapeDetection)** | Синтетический датасет (OpenCV + Spark), поэтапное дообучение YOLOv8 с новым классом, метрики Precision/Recall/IoU, экспорт ONNX/OpenVINO/TensorRT, инференс на Python и C++ | `YOLO` `PyTorch` `OpenCV` `Spark` `ONNX` `C++` |
+| **[Классификация текстов — NLP](https://github.com/captaink21/NLP_Text_Classification)** | TF-IDF + бустинг против Sentence-BERT с fine-tuning BERT, сравнение по F1-weighted, визуализация эффективности | `scikit-learn` `CatBoost` `Sentence-BERT` `Transformers` |
+| **[ИИ-ассистент «ТехНадзор» — RAG](https://github.com/captaink21/TechNadzor)** | Парсинг PDF с чанками, семантический поиск (FAISS + embeddings), RAG-цепочка поиск → контекст → ответ LLM, интеграция Telegram и GigaChat | `LangChain` `FAISS` `GigaChat` `Telegram API` |
+| **[RetinaNet Detection](https://github.com/captaink21/RetinaNetDetection)** | Генератор синтетики (OpenCV + Spark), обучение RetinaNet (ResNet-50 FPN) с новым классом, аугментации Albumentations | `PyTorch` `OpenCV` `Spark` |
+| **[LeNet-5 vs CNN](https://github.com/captaink21/ReLeNet5)** | Сравнение классической LeNet-5 и модернизированных CNN (ReLU, BatchNorm) на синтетических цифрах | `PyTorch` `NumPy` `scikit-learn` |
 
 ---
-## 📚 Фундаментальные навыки - School 21 (Sber)
 
-### DS
+<details>
+<summary><h3>📚 Архив проектов School 21 (Сбер) — развернуть</h3></summary>
 
-| Название | Описание |
+### Data Science
+
+| Проект | Описание |
 | --- | --- |
-| [MovieLens Analytics](https://github.com/captaink21/DSB10) | Модуль с классами (Ratings, Tags, Movies, Links), unit-тесты, интерактивный отчет в Jupyter Notebook, применение всех навыков (SQL, Pandas, ML, визуализация) |
-| [Intro to Machine Learning](https://github.com/captaink21/DSB9) | Классификация (логистическая регрессия, SVM, decision trees, random forest), регрессия, кластеризация, one-hot encoding, feature importance, train/test split, cross-validation. |
-| [Data Visualization](https://github.com/captaink21/DSB8) | Matplotlib (линейные графики, диаграммы, гистограммы, heatmaps), Seaborn (статистические графики, кастомизация), Plotly (интерактивные и анимированные графики). |
-| [Intro to Python - OOP Skills](https://github.com/captaink21/DSB7) | Объектно-ориентированное программирование: классы, методы, конструкторы, наследование, вложенные классы, конфигурационные файлы, логирование. |
-| [SQL and Pandas](https://github.com/captaink21/DSB6) | SQL запросы (SELECT, подзапросы, JOIN, GROUP BY), работа с SQLite, интеграция SQL с Pandas, анализ A/B тестирования, оптимизация запросов, временные ряды. |
-| [Pandas - Working with DataFrames](https://github.com/captaink21/DSB5) | Работа с Pandas: загрузка CSV, фильтрация, предварительная обработка (удаление дубликатов, работа с пропущенными значениями), парсинг строк, агрегирование, группировка, статистика. |
-| [Intro to Python - Package Management and Virtual Environment](https://github.com/captaink21/DSB4) | Управление пакетами: venv, pip, requirements.txt. Веб-скрейпинг с BeautifulSoup. Профилирование кода (cProfile). Unit-тестирование с PyTest. |
-| [Intro to Python - Syntax and Semantics](https://github.com/captaink21/DSB3) | Основы Python 3: типы данных (int, str, float, bool, list, dict, tuple, set), файловые операции, работа со словарями, аргументы командной строки, алгоритмические задачи. |
-| [Intro to Python - Efficient Code Practices](https://github.com/captaink21/DSB2) | Оптимизация Python кода и функциональное программирование. Бенчмарк производительности: циклы vs list comprehensions, map(), filter(), reduce(). Встроенные структуры (Counter). Генераторы. timeit для измерения производительности. |
-| [UNIX Command Line Tools](https://github.com/captaink21/DSB1) | Освоение инструментов командной строки Unix для обработки и анализа данных. Практика работы с curl (HTTP запросы к API), jq (парсинг JSON), sed, sort, uniq. Практический проект: загрузка вакансий с HeadHunter API → преобразование JSON в CSV → сортировка → очистка → статистика → партиционирование по датам. |
+| [MovieLens Analytics](https://github.com/captaink21/DSB10) | Модуль с классами, unit-тесты, интерактивный отчёт в Jupyter (SQL, Pandas, ML, визуализация) |
+| [Intro to ML](https://github.com/captaink21/DSB9) | Классификация (логрегрессия, SVM, деревья, random forest), регрессия, кластеризация, cross-validation |
+| [Data Visualization](https://github.com/captaink21/DSB8) | Matplotlib, Seaborn, Plotly — графики, heatmaps, интерактив и анимации |
+| [OOP](https://github.com/captaink21/DSB7) | ООП: классы, наследование, конфиги, логирование |
+| [SQL & Pandas](https://github.com/captaink21/DSB6) | SQL (JOIN, GROUP BY, подзапросы), SQLite, интеграция с Pandas, A/B-тесты |
+| [DataFrames](https://github.com/captaink21/DSB5) | Pandas: загрузка, фильтрация, обработка пропусков, агрегация, статистика |
+| [Package Management](https://github.com/captaink21/DSB4) | venv, pip, BeautifulSoup, cProfile, PyTest |
+| [Syntax & Semantics](https://github.com/captaink21/DSB3) | Основы Python 3, файлы, словари, алгоритмические задачи |
+| [Efficient Code](https://github.com/captaink21/DSB2) | Оптимизация: list comprehensions, map/filter/reduce, генераторы, timeit |
+| [UNIX CLI](https://github.com/captaink21/DSB1) | curl, jq, sed, sort, uniq; пайплайн HeadHunter API → JSON → CSV |
 
 ### SQL
 
-| Название | Описание |
+| Проект | Описание |
 | --- | --- |
-| [SQL-T01](https://github.com/captaink21/SQL-T01) | Изучение хранилищ данных (DWH), создание конвейера извлечения, преобразования и загрузки данных (ETL). |
-| [SQL-T00](https://github.com/captaink21/SQL-T00) | Практика в реализации решения задачи о покупке билета по наименьшей стоимости на основе SQL. |
-| [SQL-09](https://github.com/captaink21/SQL-09) | Создание и использование функций и хранимых процедур в базах данных. |
-| [SQL-08](https://github.com/captaink21/SQL-08) | Уровни изоляции транзакций и их значения в управлении базами данных. |
-| [SQL-07](https://github.com/captaink21/SQL-07) | Использование конкретных конструкций OLAP для извлечения ценности из данных. |
-| [SQL-06](https://github.com/captaink21/SQL-06) | Интеграция новых бизнес-функций в модель данных. |
-| [SQL-05](https://github.com/captaink21/SQL-05) | Процесс создания индексов баз данных. |
-| [SQL-04](https://github.com/captaink21/SQL-04) | Виртуальные представления и физические снимки данных. |
-| [SQL-03](https://github.com/captaink21/SQL-03) | Изменение данных с помощью языка манипулирования данными (DML). |
-| [SQL-02](https://github.com/captaink21/SQL-02) | Использование различных типов `JOIN`. |
-| [SQL-01](https://github.com/captaink21/SQL-01) | Извлечение данных с помощью операций над множествами и использование конструкции `JOIN`. |
-| [SQL-00](https://github.com/captaink21/SQL-00) | Изучение реляционной модели и данных на основе базовых конструкций SQL. |
+| [DWH / ETL](https://github.com/captaink21/SQL-T01) | Хранилища данных, конвейер ETL |
+| [Билеты](https://github.com/captaink21/SQL-T00) | Покупка билета по наименьшей стоимости на SQL |
+| [Функции и процедуры](https://github.com/captaink21/SQL-09) | Создание функций и хранимых процедур |
+| [Изоляция транзакций](https://github.com/captaink21/SQL-08) | Уровни изоляции транзакций |
+| [OLAP](https://github.com/captaink21/SQL-07) | Конструкции OLAP для аналитики |
+| [Модель данных](https://github.com/captaink21/SQL-06) | Интеграция бизнес-функций в модель данных |
+| [Индексы](https://github.com/captaink21/SQL-05) | Создание индексов БД |
+| [Представления](https://github.com/captaink21/SQL-04) | Виртуальные представления и снимки данных |
+| [DML](https://github.com/captaink21/SQL-03) | Изменение данных через DML |
+| [JOIN](https://github.com/captaink21/SQL-02) | Различные типы JOIN |
+| [Множества](https://github.com/captaink21/SQL-01) | Операции над множествами + JOIN |
+| [Реляционная модель](https://github.com/captaink21/SQL-00) | Базовые конструкции SQL |
 
-**DevOps**
+### C++
 
-| Название | Описание |
+| Проект | Описание |
 | --- | --- |
-| [Linux](https://github.com/captaink21/D01_Linux) | Знакомство с администрированием и VirtualBox. |
-| [LinuxNetwork](https://github.com/captaink21/DO2_LinuxNetwork) | Работа с сетями и VirtualBox. |
-| [SimpleDocker](https://github.com/captaink21/DO5_SimpleDocker) | Изучение docker, dockle, docker compose. Разработка простого докер-образа для собственного сервера. |
-| [CI/CD](https://github.com/captaink21/DO6_CICD) | Изучение и использование CI/CD для проекта SimpleBashUtils, реализация получения уведомлений в Telegram. |
+| [Matrix+](https://github.com/captaink21/CPP1_s21_matrixplus) | Библиотека обработки числовых матриц на ООП |
+| [Containers](https://github.com/captaink21/CPP2_s21_containers) | Контейнеры STL: list, map, queue, set, stack, vector, array |
+| [BrickGames](https://github.com/captaink21/CPP3_BrickGame_v2.0) | Змейка и тетрис, консольный и десктопный (Qt) интерфейс |
+| [3DViewer](https://github.com/captaink21/CPP4_3DViewer_v2.0) | Приложение для просмотра 3D wireframe моделей на ООП |
 
-**Python**
+### C
 
-| Название | Описание |
+| Проект | Описание |
 | --- | --- |
-| [CustomInputField-Widget](https://github.com/captaink21/gans) | Профессиональный кастомный виджет PySide6 для отображения и редактирования значений с единицами измерения. Поддерживает 2 режима отображения (горизонтальный/вертикальный), 2 режима работы (readonly/editable), кастомизацию цветов и шрифтов, загрузку иконок. Полная совместимость с Qt Designer и Material Design стилизация. |
+| [SimpleBashUtils](https://github.com/captaink21/C3_SimpleBashUtils) | Реализация утилит cat и grep |
+| [String+](https://github.com/captaink21/C2_s21_stringplus) | Библиотека string.h со sprintf |
+| [Decimal](https://github.com/captaink21/C5_s21_decimal) | Библиотека decimal.h — работа с типом decimal |
+| [Matrix](https://github.com/captaink21/C6_s21_matrix) | Библиотека обработки числовых матриц на C |
+| [BrickGame](https://github.com/captaink21/C7_BrickGame_v1.0) | Тетрис на C |
 
-**C++**
+### DevOps
 
-| Название | Описание |
+| Проект | Описание |
 | --- | --- |
-| [Matrix+](https://github.com/captaink21/CPP1_s21_matrixplus) | Реализация библиотеки `matrix.h`. для обработки числовых матриц используя ООП. |
-| [Containers](https://github.com/captaink21/CPP2_s21_containers) | Реализация основных стандартных контейнерных классов языка С++: `list`(список), `map` (словарь), `queue` (очередь), `set` (множество), `multiset`(мультимножество), `stack` (стек), `vector` (вектор), `array` (массив). |
-| [BrickGames](https://github.com/captaink21/CPP3_BrickGame_v2.0) | Реализация игр из BrickGames, а именно змейки и тетрис.Используется два вида интерфейса: 1 - консольный, 2 - десктопный (через Qt Creater). |
-| [3DViewer_v2.0](https://github.com/captaink21/CPP4_3DViewer_v2.0) | В этом проекте реализовано приложение для просмотра 3D wireframe моделей на C++ в парадигме ООП. |
+| [Linux](https://github.com/captaink21/D01_Linux) | Администрирование, VirtualBox |
+| [Linux Network](https://github.com/captaink21/DO2_LinuxNetwork) | Работа с сетями, VirtualBox |
+| [SimpleDocker](https://github.com/captaink21/DO5_SimpleDocker) | docker, dockle, docker compose, свой образ |
+| [CI/CD](https://github.com/captaink21/DO6_CICD) | CI/CD для SimpleBashUtils, уведомления в Telegram |
 
-**С**
+</details>
 
-| Название | Описание |
-| --- | --- |
-| [SimpleBashUtils](https://github.com/captaink21/C3_SimpleBashUtils) | Работа с базовыми утилитами Bash по работе с текстами. Реализация утилит `cat` и `grep`. |
-| [String+](https://github.com/captaink21/C2_s21_stringplus) | Реализация библиотеки `string.h` с некоторыми дополнениями(sprintf). |
-| [Decimal](https://github.com/captaink21/C5_s21_decimal) | Реализация библиотеки `decimal.h`. Эта библиотека добавляет возможность работы с типом «decimal», который отсутствует в стандарте языка. |
-| [Matrix](https://github.com/captaink21/C6_s21_matrix)  | Реализована собственная библиотека для обработки числовых матриц на языке программирования C. |
-| [BrickGame](https://github.com/captaink21/C7_BrickGame_v1.0) | Реализована игра «Тетрис» на языке программирования С. |
+---
 
-## 💡 Дополнительные проекты
+## 🎓 Образование и сертификаты
 
-### Python & GUI Development
-| Проект | Описание | Технологии |
-|--------|---------|-----------|
-| [CustomInputField-Widget](https://github.com/captaink21/gans) | Профессиональный кастомный виджет PySide6 для отображения/редактирования значений с единицами измерения. Поддерживает 2 режима отображения (горизонтальный/вертикальный), 2 режима работы (readonly/editable), кастомизация цветов/шрифтов, загрузка иконок, полная совместимость с Qt Designer и Material Design | PySide6, Qt Designer |
-| [RetinaNetDetection](https://github.com/captaink21/RetinaNetDetection) |Разработал генератор синтетических изображений (OpenCV + Spark) и обучил RetinaNet (ResNet-50 FPN) с новым классом hexagon. Применил аугментации (Albumentations), исследовал метрики Precision, Recall, IoU и влияние дообучения. |  |   
-| [Сравнение классической LeNet-5 и современных CNN архитектур](https://github.com/captaink21/ReLeNet5/) |Сравнение классической LeNet-5 и модернизированных CNN (ReLU, BatchNorm, MaxPooling) на синтетических наборах цифр (арабские, восточные, римские).| PyTorch, NumPy, Pillow, scikit-learn, Matplotlib|   
-
-
-## 🎓 Образование и Сертификаты
-
-- **School 21 (СБЕР)** - трек разработки и Data Science (04.2024–н.в.)
-- **[SBER](https://drive.google.com/file/d/1NZLEWWDSEHXqcxZrUiMRwhhr3c-6lHbV/view?usp=sharing)** - "LLM на примере GigaChat, AI-агенты" (2025)
-- **[Samsung AI Center](https://stepik.org/cert/2845039)** - курс "Нейронные сети и компьютерное зрение" (2025)
-- **Карпов Курс** - ["Статистика"](https://stepik.org/cert/2794882) и ["Data Science и машинное обучение"](https://stepik.org/cert/2822716)
-- **ИжГТУ** - Бакалавр по специальности "Промышленно-гражданское строительство" (2020)
-- **БПОУ УР "ИМТ"** - Диплом с отличием по специальности "Строительство" (2015)
+- **School 21 (Сбер)** — трек разработки и Data Science · 2024 — н.в.
+- **Sber** — LLM на примере GigaChat, AI-агенты · 2025
+- **Samsung AI Center** — Нейронные сети и компьютерное зрение · 2025
+- **Karpov.Courses** — Статистика · Data Science и ML
+- **ИжГТУ** — бакалавр, Промышленно-гражданское строительство
 
 ---
 
 ## 📫 Контакты
 
-- **Телефон**: +7-999-155-63-59
-- **Email**: minfarkhad@gmail.com
-- **GitHub**: [captaink21](https://github.com/captaink21)
-- **Telegram**: [@miehao](https://t.me/miehao)
+<p>
+  <a href="mailto:minfarkhad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/miehao"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://github.com/captaink21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
----
-
-## 🎯 Что я ищу
-
-Позицию  Data Scientist / ML Engineer в команде, которая решает прикладные ML-задачи в production. Интересуют: NLP, Computer Vision, RAG системы.
-
-
-
-
-
-
-
-
+<p align="center"><i>Ищу позицию Data Scientist / ML Engineer — мои проекты ниже ↓</i></p>
